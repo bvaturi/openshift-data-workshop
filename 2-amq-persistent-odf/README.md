@@ -34,6 +34,7 @@ Make sure you connect to the cluster before starting this exercise!
 ## Step 2 
 
 Hit the `Create` button in order to complete the installation (Make sure to seitch to `persistent-claim` to consume persistent storage for both `Kafka` and `ZooKeeper`): 
+Make sure to set size, i.e 2Gi
 
 ![](../1-explore-amq-operator/pictures/kafka-persistent.png)
 
